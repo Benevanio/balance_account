@@ -108,8 +108,8 @@ class BalancePageAccount extends StatelessWidget {
   Widget build(BuildContext context) {
     // Exemplo de usuário fictício
     final User user = User(
-      firstName: "Carlos",
-      lastName: "Silva",
+      firstName: "xx",
+      lastName: "xx",
       balance: 100000.00,
       accountNumber: "123456789",
     );
