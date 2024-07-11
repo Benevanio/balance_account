@@ -19,7 +19,7 @@ git clone https://github.com/benetesla/balance_account
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd balance-page-account
+cd balance_account
 ```
 
 3. Instale as dependências:
