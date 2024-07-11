@@ -13,7 +13,7 @@ Este projeto Flutter exibe informações bancárias de um usuário fictício em 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/balance-page-account.git
+git clone https://github.com/benetesla/balance_account
 ```
 
 2. Navegue até o diretório do projeto:
