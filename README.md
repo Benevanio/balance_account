@@ -1,8 +1,5 @@
-Entendi, vamos atualizar o README para refletir o `main.dart` atualizado. Aqui está o README completo:
 
----
-
-# Balance Page Account
+# Balance Account
 
 Este projeto Flutter exibe informações bancárias de um usuário fictício em uma interface de usuário atraente e moderna.
 
